@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import { remarkReadingTime } from './src/utils/readingTime';
 import rehypePrettyCode from 'rehype-pretty-code';
-import vercelStatic from '@astrojs/vercel';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
@@ -43,11 +42,6 @@ export default defineConfig({
 	integrations: [react(), sitemap()],
 	output: 'static',
 
-	adapter: vercelStatic({
-		webAnalytics: {
-			enabled: true
-		}
-	}),
 	vite: {
 		plugins: [tailwindcss()]
 	}
