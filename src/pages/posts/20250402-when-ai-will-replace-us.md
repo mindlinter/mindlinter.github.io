@@ -5,7 +5,7 @@ pubDate: 2025-04-02
 description: "AI will not replace us immediately. We will see either golden era for culture or dark ages, before it happens. If there will be golden era, I don't mind."
 author: ""
 isPinned: true
-excerpt: AI will not replace us immediately. We will see either golden era for culture or dark ages, before it happens. If there will be golden era, I don't mind.
+excerpt: "AI will not replace us immediately. We will see either golden era for culture or dark ages, before it happens. If there will be golden era, I don't mind."
 image:
   src:
   alt:
