@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "So, I tried MCP"
-pubDate: 2025-04-09
+pubDate: 2025-04-13
 description: "Are MCP the breakthrough for AI coding? Or just another hype? My first impressions."
 author: ""
 isPinned: true
