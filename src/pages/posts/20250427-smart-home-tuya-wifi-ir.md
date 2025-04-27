@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "Unmature Smart Home: Tuya WiFi IR and Home Assistant"
-pubDate: 2025-04-21
+pubDate: 2025-04-27
 description: "IR remote control for AC and Home Assistant integration with Tuya."
 author: ""
 isPinned: true
